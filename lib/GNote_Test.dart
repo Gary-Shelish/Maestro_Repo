@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:helloworld/ANote_Test.dart';
 import 'package:helloworld/A_Test.dart';
 import 'package:helloworld/F_Test.dart';
 import 'package:helloworld/congradulations.dart';
@@ -64,7 +65,8 @@ class _GNote_TestState extends State<GNote_Test> {
                         Navigator.push(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => const Correct(A_Test())));
+                                builder: (context) =>
+                                    const Correct(ANote_Test())));
                       }),
                   const Spacer(
                     flex: 2,
