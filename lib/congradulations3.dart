@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:helloworld/CNote_Test.dart';
-import 'package:helloworld/C_Test.dart';
-import 'package:helloworld/E_Test.dart';
 import 'package:helloworld/FNote_Test.dart';
-import 'package:helloworld/F_Test.dart';
 
 class Congradulations3 extends StatefulWidget {
   const Congradulations3({Key? key}) : super(key: key);

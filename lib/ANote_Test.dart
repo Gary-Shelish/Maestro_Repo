@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:helloworld/BNote_Test.dart';
-import 'package:helloworld/B_Test.dart';
-import 'package:helloworld/congradulations.dart';
 import 'package:helloworld/correct.dart';
 import 'package:helloworld/incorrect.dart';
-import 'package:helloworld/C_Test.dart';
 
 class ANote_Test extends StatefulWidget {
   const ANote_Test({Key? key}) : super(key: key);

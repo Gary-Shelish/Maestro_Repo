@@ -1,11 +1,6 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:helloworld/CNote_Test.dart';
+import 'package:helloworld/C_Test.dart';
 import 'package:helloworld/FNote_Test.dart';
-import 'package:helloworld/correct.dart';
-import 'package:helloworld/incorrect.dart';
-
-import 'C_Test.dart';
 
 void main() => runApp(MyApp());
 
@@ -17,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Hello World',
-      home: const FNote_Test(),
+      home: const C_Test(),
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),

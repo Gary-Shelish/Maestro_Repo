@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:helloworld/CNote_Test.dart';
-import 'package:helloworld/C_Test.dart';
-import 'package:helloworld/E_Test.dart';
 import 'package:helloworld/F_Test.dart';
 
 class Congradulations2 extends StatefulWidget {

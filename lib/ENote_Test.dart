@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:helloworld/D_Test.dart';
-import 'package:helloworld/FNote_Test.dart';
-import 'package:helloworld/congradulations.dart';
 import 'package:helloworld/congradulations3.dart';
 import 'package:helloworld/correct.dart';
 import 'package:helloworld/incorrect.dart';
